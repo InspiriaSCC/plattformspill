@@ -1,5 +1,6 @@
- 
-
+![Denne siden i makecode](https://arcade.makecode.com/#tutorial:github:inspiriascc/plattformspill/README)
+![tutorial 1 - Grunnleggende plattformspill](https://arcade.makecode.com/#tutorial:github:inspiriascc/plattformspill/tutorial001n)
+![tutorial 2 - Legge til utfordringer (ikke ferdig)](https://arcade.makecode.com/#tutorial:github:inspiriascc/plattformspill/tutorial002n)
 
 > Open this page at [https://inspiriascc.github.io/plattformspill/](https://inspiriascc.github.io/plattformspill/)
 
