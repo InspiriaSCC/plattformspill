@@ -274,8 +274,8 @@ Pass også på at knappen "Show walls" øverst i høyre hjørne av editoren er s
 Tegn mellom 5 og 10 korte streker som skal forestille plattformer rundt omkring på spillbrettet.
 Klikk på "Done" nede i høyre hjørne når du er fornøyd.
 
-![VeggVerktøy](https://raw.githubusercontent.com/InspiriaSCC/Energispillet/master/assets/WallTool.jpg)
-![Plattformer](https://raw.githubusercontent.com/InspiriaSCC/Energispillet/master/assets/PlatformsWBottom.jpg)
+![VeggVerktøy](https://raw.githubusercontent.com/InspiriaSCC/plattformspill/master/assets/WallTool.jpg)
+![Plattformer](https://raw.githubusercontent.com/InspiriaSCC/plattformspill/master/assets/PlatformsWBottom.jpg)
 
 ### Steg 4
 Strekene du tegnet kommer til å være usynlige i det ferdige spillet.
@@ -283,7 +283,7 @@ For å gjøre dem synlige må du tegne over dem med fliser.
 Klikk på det grå kvadratet i ``||scene:set tilemap to tilemap||`` blokken, og bruk fliseverktøyet til tegne over strekene.
 Klikk på "Done" nede i høyre hjørne når du er fornøyd.
 
-![Plattformer](https://raw.githubusercontent.com/InspiriaSCC/Energispillet/master/assets/PlatformTilesWBottom.jpg)
+![Plattformer](https://raw.githubusercontent.com/InspiriaSCC/plattformspill/master/assets/PlatformTilesWBottom.jpg)
 
 ### Steg 5
 Nå trenger du en spillfigur.
@@ -1119,7 +1119,7 @@ Hent en sekskantet ``||scene:is mySprite hitting wall left||``-blokk fra ``||sce
 Endre ordet "left" til "bottom" ved å klikke på det og velge "bottom" fra menyen.
 Nå kan figuren din kun hoppe dersom den står på en plattform.
 
-![mySprite hit wall](https://raw.githubusercontent.com/InspiriaSCC/Energispillet/master/assets/On%20buttonA1.jpg)
+![mySprite hit wall](https://raw.githubusercontent.com/InspiriaSCC/plattformspill/master/assets/OnButtonA1.jpg)
 
 ### Steg 13
 Nå kan du endelig få figuren til å hoppe.
@@ -1127,7 +1127,7 @@ Det gjør du med blokken ``||sprites:set mySprite velocity to vx 50 vy 50||`` fr
 Hent den og legg den inn i gapet på ``||logic:if true then||``-blokken.
 Endre vx til 0 og vy til -100. Oppover på skjermen er negativ y-retning, derfor må det stå "-" foran 100.
 
-![mySprite hit wall](https://raw.githubusercontent.com/InspiriaSCC/Energispillet/master/assets/SetJumpVelocity.jpg)
+![mySprite hit wall](https://raw.githubusercontent.com/InspiriaSCC/plattformspill/master/assets/SetJumpVelocity.jpg)
 
 ### Steg 14
 Hoppingen fungerer fremdeles ikke helt som tenkt.
