@@ -4,7 +4,7 @@
 ## Introduksjon
 ### Introduksjon @unplugged
 
-Klassiske plattformspill er favoritter hos mange. Her lærer du det grunnleggende for å lage plattformspill. 
+Det klassiske plattformspillet er en favoritt hos mange. Her lærer du det grunnleggende for å lage plattformspill. 
 
 ### Steg 1
 Start med å velge et bakgrunnsbilde.
