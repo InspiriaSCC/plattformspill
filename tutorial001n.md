@@ -1304,3 +1304,4 @@ Nå vet du hvordan du kan få spillfiguren din til å hoppe sånn at det nesten 
 Hva kan du legge til for å gjøre spillet skikkelig utfordrende?
 
 
+<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
