@@ -7,7 +7,7 @@
 Det klassiske plattformspillet er en favoritt hos mange. Her lærer du det grunnleggende for å lage plattformspill. 
 
 ### Steg 1
-Start med å velge et bakgrunnsbilde.
+Start med å velge et fint bakgrunnsbilde.
 Hent en ``||scene:set background image to||``-blokk fra ``||scene:Scene||``-menyen og plasser den i ``||loops:on start||``
 Klikk på det grå kvadratet i blokken, så på "Gallery" midt på den blå linja øverst i editoren, og velg et bilde.
 
